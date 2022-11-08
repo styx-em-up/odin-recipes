@@ -1,0 +1,11 @@
+@font-face 
+{ font-family: nordic; 
+    src: url('../fonts/Nordic.ttf'); 
+}
+
+
+
+.title {
+    color: #a52a2a;
+    font-family: nordic;
+}
